@@ -11,7 +11,7 @@ CIFAR10 dataset classification with transfer learning using VGG16 Convolutional 
 
 ##### Keras
 * Please follow this [link](https://keras.io/#installation) for installing Keras.
-* or one could directly follow these:
+  Or one could directly follow these:
 
   *To install Keras, cd to the Keras folder and run the install command:*
 

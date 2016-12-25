@@ -30,4 +30,7 @@ CIFAR10 dataset classification with transfer learning using VGG16 Convolutional 
 * Please refer to this [link](https://www.cs.toronto.edu/~kriz/cifar.html) to download the CIFAR10 dataset.
 
 
-
+#### Files
+* finetuning.py contains the code with the last Convolutional Block (rest frozen) of VGG16 modified according to the CIFAR10 dataset.
+* sop.py contains the code with only the fully connected layers modified.
+* sop_cv.py contains the code with 10 fold cross-validation of the above model (sop.py).
